@@ -133,7 +133,7 @@ Se o `PeerC` publicar novamente em `Esportes`, **PeerA** e **PeerB** receberão 
 ---
 
 ## 🧑‍💻 Autor
-Desenvolvido por **[Seu Nome Aqui]**  
+Desenvolvido por **Leonardo Roncolato**  
 Projeto acadêmico para demonstração de **comunicação P2P e Publish/Subscribe em C**.
 
 ---
