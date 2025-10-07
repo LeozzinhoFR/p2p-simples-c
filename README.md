@@ -137,7 +137,3 @@ Desenvolvido por **[Seu Nome Aqui]**
 Projeto acadêmico para demonstração de **comunicação P2P e Publish/Subscribe em C**.
 
 ---
-
-## 📄 Licença
-Este projeto é distribuído sob a licença **MIT**.  
-Sinta-se à vontade para estudar, modificar e redistribuir o código.
